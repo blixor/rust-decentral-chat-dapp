@@ -4,7 +4,7 @@ A decentralized chat application built with Rust and blockchain technology, enab
 
 🚀 Features
 
-End-to-End Encryption for private conversations
+## End-to-End Encryption for private conversations
 
 Peer-to-Peer Communication using blockchain
 
