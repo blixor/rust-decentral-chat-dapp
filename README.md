@@ -84,10 +84,5 @@ git push origin feature-branch
 
 MIT License. See `LICENSE` for details.
 
-## 🌐 Connect
-
-- Twitter: [@your\_handle](https://twitter.com/your_handle)
-- Discord: [Join Community](https://discord.gg/your-community-link)
-
 🚀 **Start chatting securely today with Rust-Decentralized-Chat!**
 
